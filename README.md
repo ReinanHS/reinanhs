@@ -2,63 +2,59 @@
 
 <img src="./assets/img/header-image.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
-Sou um entusiasta da tecnologia apaixonado por aprender e explorar novas áreas. Veja algumas das minhas principais
-competências:
+I am a technology enthusiast passionate about learning and exploring new areas. Here are some of my main skills:
 
-- Sou engenheiro de DevOps com conhecimentos sólidos em implantação e gerenciamento de infraestruturas Google Cloud.
-- Possuo experiência em integrações de gateways e ferramentas, API, filas e gRPC.
-- Tenho habilidade em CI/CD utilizando ferramentas como Github Action, Azure Devops, CircleCI e Gitlab.
-- Tenho experiência em versionamento de código e utilização de ferramentas ágeis como Jira e Confluence.
-- Tenho experiência em IaC (Infrastructure as Code) utilizando ferramentas como Terraform.
+- I am a DevOps engineer with strong knowledge in **Google Cloud** infrastructure deployment and management.
+- I have experience in gateway and tool integrations, **API**, queues, and **gRPC**.
+- I have skills in **CI/CD** using tools such as **Github Action**, **Azure Devops**, **CircleCI**, and **Gitlab**.
+- I have experience in code versioning and the use of agile tools like **Jira** and **Confluence**.
+- I have experience in IaC (Infrastructure as Code) using tools like **Terraform**.
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=reinanhs&show_icons=true&title_color=4A82B1&text_color=386488&icon_color=4a82b1&bg_color=a1bcd7&cache_seconds=2300">
 
-### Breve apresentação sobre min
+### Presentation
 
 <p>
 
-Além de trabalhar em projetos profissionais, também gosto de contribuir para projetos Open Source e participar de
-eventos e comunidades de tecnologia.
+In addition to working on professional projects, I also enjoy contributing to Open Source projects and participating in technology events and communities.
 <br>
 
-Sou um defensor do conhecimento compartilhado e adoro ajudar outras pessoas a crescer em suas carreiras.
-
+I am an advocate for shared knowledge and love to help others grow in their careers.
 </p>
 
-### 📝 Últimas postagens
+### 📝 Latest posts
 
 - [Limarka: como escrever um tcc em markdown](https://youtu.be/zuw0Fo1la2U)
 - [React Tik Tok UI Clone - Demo](https://youtu.be/T0G-G76UNdw)
 - [Godot websocket multiplayer - NodeJS](https://youtu.be/USYVrXiCgSI)
 - [Demonstrando minha inteligência artificial](https://youtu.be/UoSQYAwSWT4)
 
-### Experiência de trabalho
+### Work experience
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="Mova" src="https://ciclick.com.br/wp-content/uploads/2022/05/14.-Emprestimo-Emergencial-Mova-3.png"/>](https://www.spacex.com/)
 
-**Software Engineer** \
+**DevOps Engineer - Junior** \
 [**MOVA**](https://mova.vc/) • Full-time \
 Linguagens & Tecnologias: `Google Cloud`, `Kubernetes`, `CI/CD`, `Terraform`, `GoLang`, `Hyperf`,\
-Tempo integral · 1 a 5 m
+Time · 1 a 5 m
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Marata" src="https://marata.com.br/wp-content/uploads/2022/04/avatar-marata-2022.png"/>](https://rocketseat.com.br/)
 
-**Desenvolvedor PHP - Júnior** \
+**PHP Developer - Junior** \
 [**Marata**](https://marata.com.br/) • Full-time \
 Linguagens & Tecnologias: `Laravel`, `Vue.js`, `MySQL`\
-Tempo integral · 1 a 2 m
+Time · 1 a 2 m
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/reinanhs/) para uma descrição mais detalhada da minha
-experiência de trabalho, educação e certificação.
+Please find me at [LinkedIn](https://www.linkedin.com/in/reinanhs/) for a more detailed description of my work experience, education and certification.
 
-### ⭐ Informações para contato
+### ⭐ Contact information
 
-Se você deseja entrar em contato comigo, fique à vontade para me enviar uma mensagem através das minhas principais redes
-sociais listadas abaixo. Será um prazer trocar conhecimentos e discutir possíveis oportunidades de colaboração.
+If you would like to get in touch with me, feel free to send me a message through my main social media channels listed below.
+It will be a pleasure to exchange knowledge and discuss possible collaboration opportunities.
 
 <div align="left">
 
@@ -70,7 +66,7 @@ sociais listadas abaixo. Será um prazer trocar conhecimentos e discutir possív
 
 </div>
 
-### Atividades de lazer e Interesses
+### Leisure Activities and Interests
 
 <table>
   <tr>
