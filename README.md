@@ -1,6 +1,6 @@
 ### Hi there, I'm Reinan Gabriel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%">
 
-<img src="./assets/img/header-image.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://gitlab.com/reinanhs/reinanhs/-/raw/master/assets/img/header-image.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
 I am a technology enthusiast passionate about learning and exploring new areas. Here are some of my main skills:
 
@@ -72,35 +72,35 @@ It will be a pleasure to exchange knowledge and discuss possible collaboration o
   <tr>
     <td align="center">
       <a href="https://www.amazon.com.br/Cosmos-Carl-Sagan/dp/8535929886">
-        <img src="./assets/img/activities/01.jpg" height="150px" width="100px;" alt="Cosmos"/>
+        <img src="https://gitlab.com/reinanhs/reinanhs/-/raw/master/assets/img/activities/01.jpg" height="150px" width="100px;" alt="Cosmos"/>
       </a>
       <br />
       <a href="https://www.amazon.com.br/Cosmos-Carl-Sagan/dp/8535929886">Cosmos</a>
     </td>
     <td align="center">
       <a href="https://www.amazon.com.br/Guia-Ilustrado-Zahar-Astronomia-Cole%C3%A7%C3%A3o/dp/8571109826">
-        <img src="./assets/img/activities/02.jpg" height="150px" width="100px;" alt="Guia Ilustrado Zahar De Astronomia - Coleção Guia Ilustrado Zahar"/>
+        <img src="https://gitlab.com/reinanhs/reinanhs/-/raw/master/assets/img/activities/02.jpg" height="150px" width="100px;" alt="Guia Ilustrado Zahar De Astronomia - Coleção Guia Ilustrado Zahar"/>
       </a>
       <br />
       <a href="https://www.amazon.com.br/Guia-Ilustrado-Zahar-Astronomia-Cole%C3%A7%C3%A3o/dp/8571109826">Astronomia</a>
     </td>
     <td align="center">
       <a href="https://www.amazon.com.br/codificador-limpo-conduta-programadores-profissionais/dp/8576086476">
-        <img src="./assets/img/activities/03.jpg" height="150px" width="100px;" alt="O codificador limpo: Um código de conduta para programadores profissionais"/>
+        <img src="https://gitlab.com/reinanhs/reinanhs/-/raw/master/assets/img/activities/03.jpg" height="150px" width="100px;" alt="O codificador limpo: Um código de conduta para programadores profissionais"/>
       </a>
       <br />
       <a href="https://www.amazon.com.br/codificador-limpo-conduta-programadores-profissionais/dp/8576086476">O Codificador Limpo</a>
     </td>
     <td align="center">
       <a href="https://www.amazon.com.br/Manual-DevOps-confiabilidade-organiza%C3%A7%C3%B5es-tecnol%C3%B3gicas/dp/8550802697/">
-        <img src="./assets/img/activities/04.jpg" height="150px" width="100px;" alt="Manual de DevOps: como obter agilidade, confiabilidade e segurança em organizações tecnológicas"/>
+        <img src="https://gitlab.com/reinanhs/reinanhs/-/raw/master/assets/img/activities/04.jpg" height="150px" width="100px;" alt="Manual de DevOps: como obter agilidade, confiabilidade e segurança em organizações tecnológicas"/>
       </a>
       <br />
       <a href="https://www.amazon.com.br/Manual-DevOps-confiabilidade-organiza%C3%A7%C3%B5es-tecnol%C3%B3gicas/dp/8550802697/">Manual de DevOps</a>
     </td>
     <td align="center">
       <a href="https://www.amazon.com.br/Manual-Hacker-Aplica%C3%A7%C3%B5es-Conhecendo-Utilizadas/dp/857522753X/">
-        <img src="./assets/img/activities/06.jpg" height="150px" width="100px;" alt="Manual do Hacker: Aprenda a Proteger Aplicações web Conhecendo as Técnicas de Pentest Utilizadas Pelos Hackers"/>
+        <img src="https://gitlab.com/reinanhs/reinanhs/-/raw/master/assets/img/activities/06.jpg" height="150px" width="100px;" alt="Manual do Hacker: Aprenda a Proteger Aplicações web Conhecendo as Técnicas de Pentest Utilizadas Pelos Hackers"/>
       </a>
       <br />
       <a href="https://www.amazon.com.br/Manual-Hacker-Aplica%C3%A7%C3%B5es-Conhecendo-Utilizadas/dp/857522753X/">Manual do Hacker</a>
@@ -109,35 +109,35 @@ It will be a pleasure to exchange knowledge and discuss possible collaboration o
   <tr>
     <td align="center">
       <a href="https://play.hbomax.com/page/urn:hbo:page:GYGP7pwQv_ojDXAEAAAFc:type:feature">
-        <img src="./assets/img/activities/07.jpg" height="150px" width="100px;" alt="Interestelar"/>
+        <img src="https://gitlab.com/reinanhs/reinanhs/-/raw/master/assets/img/activities/07.jpg" height="150px" width="100px;" alt="Interestelar"/>
       </a>
       <br />
       <a href="https://play.hbomax.com/page/urn:hbo:page:GYGP7pwQv_ojDXAEAAAFc:type:feature">Interestelar</a>
     </td>
     <td align="center">
       <a href="https://play.google.com/store/movies/details?id=P37B33BLClc">
-        <img src="./assets/img/activities/08.jpg" height="150px" width="100px;" alt="A Chegada"/>
+        <img src="https://gitlab.com/reinanhs/reinanhs/-/raw/master/assets/img/activities/08.jpg" height="150px" width="100px;" alt="A Chegada"/>
       </a>
       <br />
       <a href="https://play.google.com/store/movies/details?id=P37B33BLClc">A Chegada</a>
     </td>
     <td align="center">
       <a href="https://play.google.com/store/movies/details?id=InCsq61G5iw.P">
-        <img src="./assets/img/activities/09.jpg" height="150px" width="100px;" alt="A Origem"/>
+        <img src="https://gitlab.com/reinanhs/reinanhs/-/raw/master/assets/img/activities/09.jpg" height="150px" width="100px;" alt="A Origem"/>
       </a>
       <br />
       <a href="https://play.google.com/store/movies/details?id=InCsq61G5iw.P">A Origem</a>
     </td>
     <td align="center">
       <a href="https://www.netflix.com/title/80100172">
-        <img src="./assets/img/activities/10.jpg" height="150px" width="100px;" alt="Dark"/>
+        <img src="https://gitlab.com/reinanhs/reinanhs/-/raw/master/assets/img/activities/10.jpg" height="150px" width="100px;" alt="Dark"/>
       </a>
       <br />
       <a href="https://www.netflix.com/title/80100172">Dark</a>
     </td>
     <td align="center">
       <a href="https://www.netflix.com/title/81074012">
-        <img src="./assets/img/activities/11.jpg" height="150px" width="100px;" alt="Batalha Bilionária: O Caso Google Earth"/>
+        <img src="https://gitlab.com/reinanhs/reinanhs/-/raw/master/assets/img/activities/11.jpg" height="150px" width="100px;" alt="Batalha Bilionária: O Caso Google Earth"/>
       </a>
       <br />
       <a href="https://www.netflix.com/title/81074012">Batalha Bilionária</a>
@@ -146,35 +146,35 @@ It will be a pleasure to exchange knowledge and discuss possible collaboration o
   <tr>
     <td align="center">
       <a href="https://www.dota2.com/home">
-        <img src="./assets/img/activities/12.jpg" height="150px" width="100px;" alt="Dota 2"/>
+        <img src="https://gitlab.com/reinanhs/reinanhs/-/raw/master/assets/img/activities/12.jpg" height="150px" width="100px;" alt="Dota 2"/>
       </a>
       <br />
       <a href="https://www.dota2.com/home">Dota 2</a>
     </td>
     <td align="center">
       <a href="https://www.youtube.com/@ReinanHS">
-        <img src="./assets/img/activities/14.png" height="150px" width="100px;" alt="Minecraft"/>
+        <img src="https://gitlab.com/reinanhs/reinanhs/-/raw/master/assets/img/activities/14.png" height="150px" width="100px;" alt="Minecraft"/>
       </a>
       <br />
       <a href="https://www.youtube.com/@ReinanHS">Minecraft</a>
     </td>
     <td align="center">
       <a href="https://www.spore.com/">
-        <img src="./assets/img/activities/13.jpg" height="150px" width="100px;" alt="Spore"/>
+        <img src="https://gitlab.com/reinanhs/reinanhs/-/raw/master/assets/img/activities/13.jpg" height="150px" width="100px;" alt="Spore"/>
       </a>
       <br />
       <a href="https://www.spore.com/">Spore</a>
     </td>
     <td align="center">
       <a href="https://civilization.com/pt-BR/">
-        <img src="./assets/img/activities/15.jpg" height="150px" width="100px;" alt="Civilization VI"/>
+        <img src="https://gitlab.com/reinanhs/reinanhs/-/raw/master/assets/img/activities/15.jpg" height="150px" width="100px;" alt="Civilization VI"/>
       </a>
       <br />
       <a href="https://civilization.com/pt-BR/">Civilization VI</a>
     </td>
     <td align="center">
       <a href="https://www.thewitcher.com/us/en/witcher3">
-        <img src="./assets/img/activities/16.png" height="150px" width="100px;" alt="The Witcher 3"/>
+        <img src="https://gitlab.com/reinanhs/reinanhs/-/raw/master/assets/img/activities/16.png" height="150px" width="100px;" alt="The Witcher 3"/>
       </a>
       <br />
       <a href="https://www.thewitcher.com/us/en/witcher3">The Witcher 3</a>
