@@ -24,24 +24,24 @@ I am an advocate for shared knowledge and love to help others grow in their care
 
 ### 📝 Latest posts
 
+- [Explorando o Hyperf: Um guia básico sobre observabilidade](https://medium.com/@reinanhs/explorando-o-hyperf-um-guia-b%C3%A1sico-sobre-observabilidade-1591febfb5c)
+- [Introdução ao Hyperf: Um guia básico para iniciantes](https://medium.com/@reinanhs/introdu%C3%A7%C3%A3o-ao-hyperf-um-guia-b%C3%A1sico-para-iniciantes-b5d7dd06b337)
+- [Docs-as-Code: Um guia básico para iniciantes](https://medium.com/@reinanhs/docs-as-code-um-guia-b%C3%A1sico-para-iniciantes-b65b1e63b53a)
 - [Limarka: como escrever um tcc em markdown](https://youtu.be/zuw0Fo1la2U)
-- [React Tik Tok UI Clone - Demo](https://youtu.be/T0G-G76UNdw)
-- [Godot websocket multiplayer - NodeJS](https://youtu.be/USYVrXiCgSI)
-- [Demonstrando minha inteligência artificial](https://youtu.be/UoSQYAwSWT4)
 
 ### Work experience
 
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Mova" src="https://ciclick.com.br/wp-content/uploads/2022/05/14.-Emprestimo-Emergencial-Mova-3.png"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Mova" src="https://gitlab.com/reinanhs/reinanhs/-/raw/master/assets/img/company/movacredito_logo.jpg"/>](https://mova.vc/)
 
-**DevOps Engineer - Junior** \
+**DevOps Engineer - Pleno** \
 [**MOVA**](https://mova.vc/) • Full-time \
 Linguagens & Tecnologias: `Google Cloud`, `Kubernetes`, `CI/CD`, `Terraform`, `GoLang`, `Hyperf`,\
-Time · 1 a 5 m
+Time · 2 a 6 m
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Marata" src="https://marata.com.br/wp-content/uploads/2022/04/avatar-marata-2022.png"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="Marata" src="https://gitlab.com/reinanhs/reinanhs/-/raw/master/assets/img/company/marata_logo.jpg"/>](https://marata.com.br/)
 
 **PHP Developer - Junior** \
 [**Marata**](https://marata.com.br/) • Full-time \
