@@ -33,7 +33,7 @@ I am an advocate for shared knowledge and love to help others grow in their care
 
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Mova" src="https://gitlab.com/reinanhs/reinanhs/-/raw/master/assets/img/company/movacredito_logo.jpg"/>](https://mova.vc/)
+[<img align="left" height="94px" width="94px" alt="Mova" src="https://gitlab.com/reinanhs/reinanhs/-/raw/master/assets/img/company/movacredito-logo.jpg"/>](https://mova.vc/)
 
 **DevOps Engineer - Pleno** \
 [**MOVA**](https://mova.vc/) • Full-time \
@@ -41,7 +41,7 @@ Linguagens & Tecnologias: `Google Cloud`, `Kubernetes`, `CI/CD`, `Terraform`, `G
 Time · 2 a 6 m
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Marata" src="https://gitlab.com/reinanhs/reinanhs/-/raw/master/assets/img/company/marata_logo.jpg"/>](https://marata.com.br/)
+[<img align="left" height="94px" width="94px" alt="Marata" src="https://gitlab.com/reinanhs/reinanhs/-/raw/master/assets/img/company/marata-logo.jpg"/>](https://marata.com.br/)
 
 **PHP Developer - Junior** \
 [**Marata**](https://marata.com.br/) • Full-time \
