@@ -1,6 +1,6 @@
 ### Hi there, I'm Reinan Gabriel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%">
 
-<img src="https://gitlab.com/reinanhs/reinanhs/-/raw/master/assets/img/header-image.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://gitlab.com/reinanhs/reinanhs/-/raw/master/assets/img/header-image.png" alt="banner Reinan Souza">
 
 I am a technology enthusiast passionate about learning and exploring new areas. Here are some of my main skills:
 
@@ -38,7 +38,7 @@ In the overview below you will find my most recent work experience:
 **DevOps Engineer - Pleno** \
 [**MOVA**](https://mova.vc/) • Full-time \
 Linguagens & Tecnologias: `Google Cloud`, `Kubernetes`, `CI/CD`, `Terraform`, `GoLang`, `Hyperf`,\
-Time · 2 a 6 m
+Time · 3 a 2 m
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Marata" src="https://gitlab.com/reinanhs/reinanhs/-/raw/master/assets/img/company/marata-logo.jpg"/>](https://marata.com.br/)
